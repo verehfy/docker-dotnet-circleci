@@ -9,6 +9,7 @@ The produced image can be found on [Docker Hub](https://cloud.docker.com/reposit
 | Dependency                                       | Purpose                                                                                          |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | [https://github.com/gfoidl/trx2junit](trx2junit) | Allow automated test reports (TRX) to be transformed in to a format that CircleCI allows (JUnit) |
+| [https://www.nuget.org/packages/GitVersion.Tool](GitVersion.Tool) | Allows inferring of version from Git Commits |
 
 ## Image Builds
 
