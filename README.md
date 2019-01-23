@@ -10,6 +10,7 @@ The produced image can be found on [Docker Hub](https://cloud.docker.com/reposit
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | [https://github.com/gfoidl/trx2junit](trx2junit) | Allow automated test reports (TRX) to be transformed in to a format that CircleCI allows (JUnit) |
 | [https://www.nuget.org/packages/GitVersion.Tool](GitVersion.Tool) | Allows inferring of version from Git Commits |
+| [https://www.nuget.org/packages/dotnet-sonarscanner](sonarscanner) | SonarQube static code analysis
 
 ## Image Builds
 
